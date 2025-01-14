@@ -4,8 +4,10 @@
 * Reproduce result ตาม Neural Collaborative Filtering paper
 * เสนอแนวทางการพัฒนาเพื่อให้ model ให้ผลที่ดีขึ้น
 # Dataset (movielens)
-*train.rating (userID/itemID/rating/timestamp)\n
-*test.rating (userID/itemID/rating/timestamp)\n
+*train.rating (userID/itemID/rating/timestamp)
+
+*test.rating (userID/itemID/rating/timestamp)
+
 *test.negative ((userID,itemID),negativeitemID,..)
 # Reference code for studying
 * Reference_code_for_studying
