@@ -11,7 +11,7 @@
 * Reference_code_for_studying
 # Result All objective
 1. Presentation
-   *DADS6003 ML Neural Collaborative Filtering.pdf
+   * DADS6003 ML Neural Collaborative Filtering.pdf
 2. text file และ python code สำหรับ reproduce result และ improvement result
-   *Reproduce_result.txt
-   *Reproduce_Result.ipynb
+   * Reproduce_result.txt
+   * Reproduce_Result.ipynb
